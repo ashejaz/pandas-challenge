@@ -16,9 +16,14 @@ The skills demonstrated here include: loading .csv data into jupyter notebook, c
 
 All relevant files are located in the 'PyCitySchools' folder.
 
-The .csv files used are located in the 'Resources' folder. 
-The school data is contained in the 'schools_complete.csv' file.
-The student data is contained in the 'students_complete.csv' file.
+The 'Resources' folder contains .csv data used. 
+- The school data is contained in the 'schools_complete.csv' file.
+- The student data is contained in the 'students_complete.csv' file.
 
-The 'Analysis' folder contains the jupyter notebook script and results in the file titled 'PyCitySchools_main.ipynb'.
-A report summarising results and conclusions is also located here, titled 'PyCitySchools Summary Report.docx'.
+The 'Analysis' folder contains the code and results.
+- The jupyter notebook script and results are located in the file titled 'PyCitySchools_main.ipynb'.
+- A report summarising results and conclusions is titled 'PyCitySchools Summary Report.docx'.
+
+# references
+
+This mock data was generated for edX Boot Camps LLC using Mockaroo LLC.
